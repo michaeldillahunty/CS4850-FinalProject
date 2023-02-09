@@ -12,4 +12,4 @@ Run the following commands:
 - `cmake ..`
 -  `make`
    - this will create 2 executable files [client and server]
-- run each using `./client` or `./server`
+- execute these by running `./client` or `./server`
