@@ -11,5 +11,5 @@ Run the following commands:
 - `cd build`
 - `cmake ..`
 -  `make`
-   - this will output 2 executable files [client and server]
+   - this will create 2 executable files [client and server]
 - run each using `./client` or `./server`
